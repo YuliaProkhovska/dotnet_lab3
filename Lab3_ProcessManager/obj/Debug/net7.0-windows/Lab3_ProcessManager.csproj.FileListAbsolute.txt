@@ -1,0 +1,33 @@
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.exe
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.deps.json
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.runtimeconfig.json
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.dll
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.pdb
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.csproj.AssemblyReference.cache
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.MainForm.resources
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.csproj.GenerateResource.cache
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.AssemblyInfoInputs.cache
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.AssemblyInfo.cs
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.csproj.CoreCompileInputs.cache
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.dll
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\refint\Lab3_ProcessManager.dll
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.pdb
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.genruntimeconfig.cache
+D:\Уроки\DotNet\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\ref\Lab3_ProcessManager.dll
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.exe
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.deps.json
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.runtimeconfig.json
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.dll
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\bin\Debug\net7.0-windows\Lab3_ProcessManager.pdb
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.MainForm.resources
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.csproj.GenerateResource.cache
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.AssemblyInfoInputs.cache
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.AssemblyInfo.cs
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.dll
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\refint\Lab3_ProcessManager.dll
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.pdb
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\Lab3_ProcessManager.genruntimeconfig.cache
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3_ProcessManager\obj\Debug\net7.0-windows\ref\Lab3_ProcessManager.dll

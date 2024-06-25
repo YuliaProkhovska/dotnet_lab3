@@ -1,0 +1,33 @@
+D:\Уроки\DotNet\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.exe
+D:\Уроки\DotNet\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.deps.json
+D:\Уроки\DotNet\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.runtimeconfig.json
+D:\Уроки\DotNet\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.dll
+D:\Уроки\DotNet\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.pdb
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.csproj.AssemblyReference.cache
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3.Form1.resources
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.csproj.GenerateResource.cache
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.AssemblyInfoInputs.cache
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.AssemblyInfo.cs
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.csproj.CoreCompileInputs.cache
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.dll
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\refint\Lab3_Encryption.dll
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.pdb
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.genruntimeconfig.cache
+D:\Уроки\DotNet\Lab3\Lab3\obj\Debug\net7.0-windows\ref\Lab3_Encryption.dll
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.exe
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.deps.json
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.runtimeconfig.json
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.dll
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\bin\Debug\net7.0-windows\Lab3_Encryption.pdb
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3.Form1.resources
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.csproj.GenerateResource.cache
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.AssemblyInfoInputs.cache
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.AssemblyInfo.cs
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.csproj.CoreCompileInputs.cache
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.dll
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\refint\Lab3_Encryption.dll
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.pdb
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\Lab3_Encryption.genruntimeconfig.cache
+C:\Users\petro\OneDrive\Рабочий стол\дотнет юля\Lab3\Lab3\obj\Debug\net7.0-windows\ref\Lab3_Encryption.dll
